@@ -28,8 +28,9 @@ Interactive course. Write every component yourself. Train and generate in minute
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
+[![Polish Version](https://img.shields.io/badge/Wersja-Polska-red.svg)](README_PL.md)
 
-**[English version]** • **[🇵🇱 Polska wersja: `python write_transformer_PL.py`](README_PL.md)**
+[English] • [🇵🇱 Polskie README](README_PL.md) • [Uruchom: `python write_transformer_PL.py`](write_transformer_PL.py)
 
 </div>
 
