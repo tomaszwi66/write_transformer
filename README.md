@@ -20,12 +20,18 @@ Interactive course. Write every component yourself. Train and generate in minute
 
 </div>
 
----
-### 🇵🇱 Polska wersja dostępna! / Polish version available!
-Dla osób z Polski przygotowałem specjalną, w pełni przetłumaczoną wersję interaktywnego kursu.
-Aby ją uruchomić, użyj komendy:
-`python write_transformer_PL.py`
----
+<div align="center">
+
+# 🧠 write-transformer
+
+**Build GPT from scratch - step by step, in 11 lessons.**
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
+
+**[English version]** • **[🇵🇱 Polska wersja: `python write_transformer_PL.py`](README_PL.md)**
+
+</div>
 
 ## 🎯 Who is this for?
 
