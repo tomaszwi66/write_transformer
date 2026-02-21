@@ -21,6 +21,11 @@ Interactive course. Write every component yourself. Train and generate in minute
 </div>
 
 ---
+### 🇵🇱 Polska wersja dostępna! / Polish version available!
+Dla osób z Polski przygotowałem specjalną, w pełni przetłumaczoną wersję interaktywnego kursu.
+Aby ją uruchomić, użyj komendy:
+`python write_transformer_PL.py`
+---
 
 ## 🎯 Who is this for?
 
